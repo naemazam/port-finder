@@ -1,6 +1,5 @@
 #!/usr/bin/python3
- GNU nano 4.9.3                 port-scanner.py                           
-#!//usr/bin/python
+GNU nano 4.9.3                       
 import socket
 
 
