@@ -7,7 +7,7 @@ Port-finder is a simple tool which made by -n_A that helps you to Scan and find 
 Go-to [github](https://github.com/naemazam/port-finder) to install port-finder.
 
 ```bash
-https://github.com/naemazam/port-finder.git
+git clone https://github.com/naemazam/port-finder.git
 ```
 
 ## Run & Usage
