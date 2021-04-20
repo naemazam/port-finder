@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-GNU nano 4.9.3                       
+#!/usr/bin/python3                    
 import socket
 
 
